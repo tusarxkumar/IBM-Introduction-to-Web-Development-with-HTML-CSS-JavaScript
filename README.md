@@ -11,5 +11,8 @@ I have added js from my side , not mentioned in the assignment<br>
 [https://ibm-final-project.vercel.app](https://ibm-final-project.vercel.app)
 
 
-# Certification 
-https://coursera.org/share/184b9d861fdf0152af1860c75fc0ac3a
+
+## Certifications
+
+<a href="https://coursera.org/share/184b9d861fdf0152af1860c75fc0ac3a" target="_blank" style="text-decoration:none">Certificate of completion</a>
+
